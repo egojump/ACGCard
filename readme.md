@@ -1,6 +1,11 @@
 # ACG Card Game
 An experimental ACG card game, developed using Unreal Engine 4 (4.18.2)
 
+## Installation
+
+``` 
+git lfs clone https://github.com/egojump/ACGCard
+```
 ## Relevant links
 Docs (https://egojump.github.io/ACGCard/)
 
